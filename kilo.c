@@ -1276,7 +1276,7 @@ void initEditor(void) {
 
 int main(int argc, char **argv) {
   if (argc != 2) {
-    fprintf(stderr, "Usage: kilo <filename>\n");
+    fprintf(stderr, "\033[1;31mUsage: kilo <filename>\n\033[0m");
     exit(1);
   }
 
