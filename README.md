@@ -1,5 +1,4 @@
 # Kilo-plus
-===
 
 A folk of killo text editor for Syntax highlighting and...
 
