@@ -2,9 +2,11 @@
 
 A folk of killo text editor for Syntax highlighting and...
 
-Usage: kilo `<filename>`
-
-Keys:
+### Usage 
+```
+kilo `<filename>`
+```
+### Keys:
 
     CTRL-S: Save
     CTRL-Q: Quit
