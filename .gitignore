@@ -1,5 +1,2 @@
-#exec
-kilo
-
-#test file
-*.txt
+#build directory
+build
