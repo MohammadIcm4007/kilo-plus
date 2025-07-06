@@ -5,4 +5,4 @@ kilo: kilo.c
 	$(CC) -o ./build/kilo kilo.c -Wall -W -pedantic -std=c99
 
 clean:
-	rm kilo
+	rm -rf build
